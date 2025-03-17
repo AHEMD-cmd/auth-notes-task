@@ -59,3 +59,4 @@ Ensure you have the following installed:
     php artisan queue:work
    ```
 
+### Api documentation: https://documenter.getpostman.com/view/17398432/2sAYkDMLVu
